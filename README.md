@@ -22,7 +22,7 @@
   <br>
   💬 I speak Russian, English, Polish and Belarussian
   <br>
-  📫 You can contact me: <a href="https://www.linkedin.com/in/alina-halushkina-696373104/">LinkedIn</a>
+  📫 You can contact me: <a href="https://www.linkedin.com/in/alina-halushkina/">LinkedIn</a>
 </p>
 
 <hr>
